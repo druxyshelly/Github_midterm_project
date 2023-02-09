@@ -26,3 +26,7 @@ img {
     padding: 15px;
     font-size: 15px;
 }
+
+.center-image {
+    margin-left: 500px;
+}
